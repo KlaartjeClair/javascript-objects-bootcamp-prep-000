@@ -7,4 +7,6 @@ playlist = {
 function updatePlaylist(){
  playlist.sting = 'Fragile' }
  
- function 
+ function removeFromPlaylist(){
+   delete playlist.sting;
+ }
