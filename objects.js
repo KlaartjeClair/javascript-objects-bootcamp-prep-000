@@ -7,5 +7,5 @@ playlist = {
 function updatePlaylist(playlist, Sting, Fragile){
  playlist[Sting] = Fragile }
  
- function removeFromPlaylist(playlist, Sting){
+ function removeFromPlaylist(playlist){
    delete playlist.Sting; }
