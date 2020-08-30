@@ -5,5 +5,4 @@ playlist = {
 };
 
 function updatePlaylist(){
-  Object.assign({}, playlist, {Sting: "Fragile"})
-}
+ playlist.sting = 'Fragile' }
