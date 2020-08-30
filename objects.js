@@ -4,9 +4,8 @@ playlist = {
   Abba: "Waterloo"
 };
 
-function updatePlaylist(){
- playlist.sting = 'Fragile' }
+function updatePlaylist(playlist, Sting, Fragile){
+ playlist[sting] = Fragile }
  
  function removeFromPlaylist(){
-   delete playlist.sting;
- }
+   delete playlist.sting }
