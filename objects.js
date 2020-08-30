@@ -6,3 +6,5 @@ playlist = {
 
 function updatePlaylist(){
  playlist.sting = 'Fragile' }
+ 
+ function 
