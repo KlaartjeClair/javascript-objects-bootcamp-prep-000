@@ -8,4 +8,4 @@ function updatePlaylist(playlist, Sting, Fragile){
  playlist[Sting] = Fragile }
  
  function removeFromPlaylist(playlist, Sting){
-   delete playlist.sting }
+   delete playlist.Sting; }
